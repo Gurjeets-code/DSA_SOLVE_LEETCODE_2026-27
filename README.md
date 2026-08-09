@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,4 +50,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
