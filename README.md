@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0443-string-compression) |
+| [1108-defanging-an-ip-address](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/1108-defanging-an-ip-address) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
