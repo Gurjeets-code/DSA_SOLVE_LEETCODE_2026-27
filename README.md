@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0414-third-maximum-number) |
+| [1929-concatenation-of-array](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1929-concatenation-of-array](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
