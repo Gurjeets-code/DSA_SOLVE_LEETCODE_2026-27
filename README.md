@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0414-third-maximum-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/1512-number-of-good-pairs) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
