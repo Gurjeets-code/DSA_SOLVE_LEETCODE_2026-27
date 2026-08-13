@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0922-sort-array-by-parity-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/1572-matrix-diagonal-sum) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0443-string-compression) |
 | [0905-sort-array-by-parity](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0922-sort-array-by-parity-ii) |
 ## Prefix Sum
 |  |
 | ------- |
