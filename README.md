@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3467-transform-array-by-parity](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3467-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0922-sort-array-by-parity-ii) |
+| [3467-transform-array-by-parity](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3467-transform-array-by-parity) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/1512-number-of-good-pairs) |
+| [3467-transform-array-by-parity](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3467-transform-array-by-parity) |
 ## Matrix
 |  |
 | ------- |
