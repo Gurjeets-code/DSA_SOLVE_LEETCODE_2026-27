@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3467-transform-array-by-parity](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3925-concatenate-array-with-reverse](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3925-concatenate-array-with-reverse) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Greedy
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3925-concatenate-array-with-reverse](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
