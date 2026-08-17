@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/2235-add-two-integers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3895-count-digit-appearances](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3945-digit-frequency-score) |
 ## Array
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3467-transform-array-by-parity](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3895-count-digit-appearances](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
