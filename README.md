@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3467-transform-array-by-parity](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3895-count-digit-appearances) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0410-split-array-largest-sum) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Hash Table
 |  |
 | ------- |
