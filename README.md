@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/2235-add-two-integers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/2769-find-the-maximum-achievable-number) |
@@ -125,4 +126,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
