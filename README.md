@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0090-subsets-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0287-find-the-duplicate-number) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0042-trapping-rain-water) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -163,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0287-find-the-duplicate-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
