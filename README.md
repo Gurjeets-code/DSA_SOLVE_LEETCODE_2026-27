@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0155-min-stack) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -177,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
