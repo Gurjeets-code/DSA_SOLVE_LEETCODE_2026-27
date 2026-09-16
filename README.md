@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0090-subsets-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
