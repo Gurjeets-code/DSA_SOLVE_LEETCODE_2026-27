@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0287-find-the-duplicate-number) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0119-pascals-triangle-ii) |
 | [0410-split-array-largest-sum](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0509-fibonacci-number) |
 ## Recursion
