@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0013-roman-to-integer) |
 | [0509-fibonacci-number](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/2235-add-two-integers) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0151-reverse-words-in-a-string) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0349-intersection-of-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/1512-number-of-good-pairs) |
