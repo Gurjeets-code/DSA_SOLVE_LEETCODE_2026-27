@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0090-subsets-ii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0155-min-stack) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
