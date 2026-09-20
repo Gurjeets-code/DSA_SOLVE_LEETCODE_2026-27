@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0051-n-queens) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0349-intersection-of-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/1512-number-of-good-pairs) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/1572-matrix-diagonal-sum) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0078-subsets) |
@@ -201,5 +205,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
