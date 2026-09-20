@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0046-permutations) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0349-intersection-of-two-arrays) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0240-search-a-2d-matrix-ii) |
