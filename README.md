@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/2235-add-two-integers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/2769-find-the-maximum-achievable-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/2965-find-missing-and-repeated-values) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3945-digit-frequency-score) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/2965-find-missing-and-repeated-values) |
 | [3248-snake-in-matrix](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3248-snake-in-matrix) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3895-count-digit-appearances) |
