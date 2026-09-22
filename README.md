@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3895-count-digit-appearances) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/2965-find-missing-and-repeated-values) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0037-sudoku-solver) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
