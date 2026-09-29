@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0155-min-stack) |
+| [0707-design-linked-list](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0707-design-linked-list) |
 ## Algorithm X
 |  |
 | ------- |
@@ -229,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/3898-find-the-degree-of-each-vertex) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
