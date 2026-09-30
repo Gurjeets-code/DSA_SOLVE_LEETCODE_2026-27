@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0443-string-compression) |
+| [0876-middle-of-the-linked-list](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -238,4 +239,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0142-linked-list-cycle-ii) |
 | [0707-design-linked-list](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
