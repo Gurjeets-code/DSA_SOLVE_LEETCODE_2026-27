@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0344-reverse-string) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0037-sudoku-solver) |
+| [0142-linked-list-cycle-ii](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0349-intersection-of-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/1512-number-of-good-pairs) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0287-find-the-duplicate-number) |
 ## Monotonic Stack
 |  |
@@ -233,5 +236,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0142-linked-list-cycle-ii) |
 | [0707-design-linked-list](https://github.com/Gurjeets-code/DSA_SOLVE_LEETCODE_2026-27/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
